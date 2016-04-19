@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> My Favorite Recipes</title>
+</head>
+    <body>
+    <h1>My favorite recipes</h1>
+        <h2>Spicy potatoes</h2>
+        <p>This is a recipe that I have used over and over, it is easy and a guaranteed hit. I made them for my cousin last night and she raved about them. Today she had the leftovers for lunch at work and sent me a text saying (again) how delicious they were. You will not be disappointed! Potatoes are crispy on the outisde, soft and fluffy on the inside. Yummy! Here's what you will need and how to make them </p>
+        <br>
+       <h3>Ingredients</h3>
+    <ul>
+        <li>1 lb Russet or Yukon Gold potatoes (scrubbed clean, skin on)</li>
+        <li>&frac14; cup olive oil</li>
+        <li>&frac12; teaspoon each: crushed red chili flakes, smoked paprika, onion powder, garlic powder, black pepper, salt(can be omitted completely)</li>
+    </ul>
+        <br>
+        <h3>Preparation</h3>
+    <ol>
+        <li>Preheat oven at 415&deg;F</li>
+        <li>Cut potatoes into 1-2inch cubes, toss in bowl with spices and olive oil until well-coated</li>
+        <li>Spread in single layer on baking sheet and bake for 20-30 minutes (depending on the size of your cubes) until golden brown and crispy</li>
+    </ol>
+    <br>
+        <p>This recipe can be used with sweet potatoes as well, they will come out just as delicious however they may not come out as crispy as white potatoes</p>
+    </body>
+</html>
