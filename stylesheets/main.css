@@ -15,7 +15,9 @@ h1 {
 nav {
   background-color: aliceblue;
   width: 18em;
+  margin-left: -18em;
 }
+nav:hover { margin-left: 2em; }
 section { margin-left: 40px;}
 td { 
   padding: 10px;
