@@ -5,17 +5,24 @@
   <meta name="viewport" content="width=device-width">
   <title>Recipes project - Week 6</title>
   <link rel="stylesheet" href="https://rawgit.com/Elle8873/Recipes-project/gh-pages/stylesheets/main.css">
-</head>
+  </head>
 <body>
 <header>
     <h1>My Favorite Recipes</h1>
       </header>
-      <nav><ul>
+      <!-- <nav><ul>
         <li><a href="#spicy-potatoes">Spicy Potatoes</a></li>
         <li><a href="#tenderloin">Marinated Pork Tenderloin</a></li>
         <li><a href="#dessert">Double-Chocolate Mousse</a></li>
-        </ul></nav>
-      
+        </ul></nav>-->
+      <nav class="dropdown" style="float:left">
+  <button class="dropbtn">Menu</button>
+  <nav class="dropdown-content" style="left:0;">
+    <a href="#spicy-potatoes">Spicy Potatoes</a>
+    <a href="#tenderloin">Marinated Pork Tenderloin</a>
+    <a href="#dessert">Double-Chocolate Mousse</a>
+  </nav>
+  </nav>
       <section id="spicy-potatoes">
         <header>
         <h2>Spicy potatoes</h2>
